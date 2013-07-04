@@ -31,11 +31,7 @@ public class jtest {
 	public static void main(String[] args) {
 		sayHello();
 		
-		ssss tss = new ssss();
-		ssss tee = new ssss();
-		if(tss == tee){
-			ssss tee1 = new ssss();;
-		}
+
 		
 		try{
 			jtest jts = new jtest();
