@@ -31,7 +31,7 @@ public class jtest {
 	public static void main(String[] args) {
 		sayHello();
 		
-
+		ssss qqq;
 		
 		try{
 			jtest jts = new jtest();
