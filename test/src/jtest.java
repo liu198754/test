@@ -32,6 +32,7 @@ public class jtest {
 		sayHello();
 		
 		ssss qqq;
+		ssss qqq12;
 		
 		try{
 			jtest jts = new jtest();
