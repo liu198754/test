@@ -32,6 +32,9 @@ public class jtest {
 		sayHello();
 		
 		ssss qqq;
+		Object qrws;
+
+		Class<?>  ggg;
 		
 		try{
 			jtest jts = new jtest();
